@@ -11,6 +11,11 @@ public class HelloChild {
 		
 		
 		System.out.println("child New");
+	
+		
+		
+		
+		
 		
 	}
 	
