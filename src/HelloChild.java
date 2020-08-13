@@ -11,6 +11,7 @@ public class HelloChild {
 		
 		
 		System.out.println("child New");
+		System.out.println("change from remote");
 	
 		
 		
