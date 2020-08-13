@@ -12,7 +12,7 @@ public class HelloChild {
 		
 		System.out.println("child New");
 		System.out.println("Chnages form ecllipse child New");
-	
+		System.out.println("change from remote");
 		
 		
 		
