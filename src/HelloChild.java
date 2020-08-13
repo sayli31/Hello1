@@ -8,6 +8,10 @@ public class HelloChild {
 		System.out.println("New");
 
 		System.out.println("Inside CHild class..");
+		
+		
+		System.out.println("child New");
+		
 	}
 	
 	
